@@ -64,21 +64,24 @@ Here are some ideas to get you started:
 <h3 align="left">Cybersecurity:</h3>
 <p align="left">
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kali-linux/kali-linux-icon.svg" alt="kali linux" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="40" height="40"/>
   </a>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" alt="nmap" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="40" height="40"/>
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="wireshark" width="40" height="40"/>
-  </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg" alt="metasploit" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="40" height="40"/>
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" alt="burp suite" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/portswigger" alt="Burp Suite" width="40" height="40"/>
+  </a>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="40" height="40"/>
+  </a>
+  <a href="https://scapy.net/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/scapy" alt="Scapy" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" height="40"/>
   </a>
 </p>
