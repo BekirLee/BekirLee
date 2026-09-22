@@ -66,9 +66,6 @@ Here are some ideas to get you started:
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="40" height="40"/>
   </a>
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="40" height="40"/>
-  </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/wireshark" alt="Wireshark" width="40" height="40"/>
   </a>
@@ -78,10 +75,16 @@ Here are some ideas to get you started:
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/metasploit" alt="Metasploit" width="40" height="40"/>
   </a>
-  <a href="https://scapy.net/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/scapy" alt="Scapy" width="40" height="40"/>
-  </a>
+
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/linux" alt="Linux" width="40" height="40"/>
   </a>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/nmap.svg" alt="nmap" width="40" height="40"/>
+  </a>
+
+  <a href="https://scapy.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/MatheusFelipeOG/scapy-logo/master/scapy.svg" alt="scapy" width="40" height="40"/>
+  </a>
+
 </p>
